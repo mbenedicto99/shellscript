@@ -265,7 +265,7 @@ F_ValidaRc ${RC} "${MsgErro}"
 #------------------------------------
 # Executa Update para acertar OHXACT
 # Incluido pela CHANGE 5668
-# Rafael Toniete - 14/02/2006
+# Marcos de Benedicto - 14/02/2006
 #------------------------------------
 if [ "${CHK_MODO}" = "COMMIT" ]
 then
@@ -328,7 +328,7 @@ F_ValidaRc $RC "${MsgErro}"
   echo "------------------------------------------------------------------"
   echo "Executando comando com o cron"
 #----------
-# Anterado em 13/04/04 por Rafael Toniete - CHANGE 2037
+# Anterado em 13/04/04 por Marcos de Benedicto - CHANGE 2037
 # Alteracao devido a um BUG do BCH que calcula uma hora a mais no time zone,
 # a alteracao do programa ja foi solicitada, mas para evitar erros enquanto
 # novo programa nao chega, deve ser incluido um export do TZ

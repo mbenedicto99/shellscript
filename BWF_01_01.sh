@@ -2,7 +2,7 @@
         # Finalidade    : SCR - Executa função no banco para inserir inicio ou fim de modulo de billing.
         # Input         : BWF_01_01.sh
         # Output        : log
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 30/01/2007
 set +x
 

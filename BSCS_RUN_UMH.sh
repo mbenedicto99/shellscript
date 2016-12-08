@@ -3,7 +3,7 @@
 # UMH
 # BSCS_RUN_UMH.sh
 #
-# Criado : Rafael Toniete 28/04/2004
+# Criado : Marcos de Benedicto 28/04/2004
 #
 
 . /etc/appltab

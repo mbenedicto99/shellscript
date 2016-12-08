@@ -191,7 +191,7 @@ F_Valida_RC()
       |                     2) A Base de Dados nao esta no AR.
       |
       |     Acionar:
-      |                     1) Rafael Toniete;
+      |                     1) Marcos de Benedicto;
       |                     2) Analise de Producao;
       |                     3) Marcos de Benedicto.
       |  

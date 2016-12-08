@@ -2,7 +2,7 @@
         # Finalidade    : CHG2628 - Processamento diario de arquivos de BlackList para a Plataforma de Ligacues a Cobrar.
         # Input         : ATS00AFQPN_BLK.sh
         # Output        : mail, log
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 05/10/2004
 
 . /etc/appltab

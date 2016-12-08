@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5614 - Executa qualificacao e import
 	# Input         : BGN_05_01.sh <BILL_CYCLE>
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 10/02/2006
 
 set +x

@@ -131,7 +131,7 @@ F_ValidaRc $RC "${MsgErro}"
 
 #-----------------------------
 # Envia arquivos para PABSC
-#  CHG6469 (Rafael Toniete - 05/06/2006)
+#  CHG6469 (Marcos de Benedicto - 05/06/2006)
 #-----------------------------
 su - transf -c "scp ${DirBkpComp}/${ModBill}${Ciclo}${RunDate}.tar.gz spoaxap9:/aplic/sql_rels_spoaxap9/faturas_bill_checkout/"
 RC=${?}

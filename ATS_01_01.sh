@@ -2,7 +2,7 @@
         # Finalidade    : CHG3631 - Numeros dos portais de voz
         # Input         : ATS_01_01.sh
         # Output        : mail, log
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 11/04/2005
 
 set +x

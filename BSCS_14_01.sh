@@ -3,7 +3,7 @@
 	# Finalidade    : CHG6195 - RELATORIO DE CONTROLE DE IPs ATIVOS
 	# Input         : BSCS_14_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 28/04/2006
 
 

@@ -3,7 +3,7 @@
 	# Finalidade    : CHG6682 - Correcao automatica de clientes com diferencas nos TAX-CODES para o Billing
 	# Input         : BGN_08_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 10/07/2006
 
 set +x

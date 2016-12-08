@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5668 - Acerta interface do MIT (UPDATE do numero da INVOICE (USERLBL))
 	# Input         : acerta_ohxact.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 17/02/2006
 
 

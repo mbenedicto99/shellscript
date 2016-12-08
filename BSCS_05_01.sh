@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5655 - Relatorio de Baixa de Estoque das Licencas de CDW.
 	# Input         : BSCS_05_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 14/02/2006
 
 

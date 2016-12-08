@@ -3,7 +3,7 @@
 	# Finalidade    : CHG6411 - RELATORIO CONTROLE ATIVACAO - CDW MAESTRO.
 	# Input         : BSCS_15_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 01/06/2006
 
 

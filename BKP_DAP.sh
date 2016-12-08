@@ -1,6 +1,6 @@
 #!/bin/ksh
         # Finalidade    : Faz backup dos arquivos de DAP
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 05/05/2005
 
 #set +x

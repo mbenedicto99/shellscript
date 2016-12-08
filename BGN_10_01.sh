@@ -3,7 +3,7 @@
 	# Finalidade    : CHGXXXX - Seleciona quantidade de execucoes a ser feita.
 	# Input         : BGN_10_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 09/08/2006
 
 ##set +x

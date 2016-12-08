@@ -2,7 +2,7 @@
 	# Finalidade    : CHG
 	# Input         : busca_mdr.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 02/06/2005
 
 

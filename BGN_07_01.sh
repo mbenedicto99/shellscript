@@ -3,7 +3,7 @@
 	# Finalidade    : CHG - Export de CLIENTES ATIVOS POR BILL CYCLE gerando um processo por vez com a quantidade de registros especificada no parametro QTY_REG_PROCESS
 	# Input         : BGN_07_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 30/01/2006
 
 set +x

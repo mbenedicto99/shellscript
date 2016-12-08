@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5614 - Verifica se Scheduler esta ativo.
 	# Input         : BGN_06_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 10/02/2006
 
 set +x

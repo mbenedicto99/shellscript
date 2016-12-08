@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5814 - Relatorio/Correcao de Divergencias de planos.
 	# Input         : BSCS_07_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 14/03/2006
 
 

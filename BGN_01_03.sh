@@ -3,7 +3,7 @@
 	# Finalidade    : CHGi5614 - Reprocessamento Qualificao de dados de clientes por LOTE
 	# Input         : BGN_01_03.sh <LOTE>
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 23/02/2006
 
 set +x

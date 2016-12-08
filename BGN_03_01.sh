@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5614 - Monitora STATUS da execucao da qualificacao de clientes.
 	# Input         : BGN_03_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 10/02/2006
 
 set +x

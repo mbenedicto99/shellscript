@@ -3,7 +3,7 @@
 	# Finalidade    : CHG2647 - RELATORIO DE CONTAS ZERADAS ANTES BGH COMMIT
 	# Input         : BILLING_02_01.sh <billcycle>
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 19/10/2004
 
 . /etc/appltab

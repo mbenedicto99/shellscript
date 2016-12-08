@@ -2,7 +2,7 @@
         # Finalidade    : CHGXXXX - Gera relatorio com execucoes do BILLING do CICLO X para historico.
         # Input         : BIL001RSPN_REL.sh
         # Output        : mail, log
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 04/02/2005
 
 if [ "${#}" -ne 3 ]

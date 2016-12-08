@@ -3,7 +3,7 @@
 	# Finalidade    : CHGXXXX - Processamento diario (Export de CLIENTES ATIVOS gerando um processo por vez com a quantidade de registros especificada no parametro QTY_REG_PROCESS)
 	# Input         : BGN_09_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 09/08/2006
 
 set +x

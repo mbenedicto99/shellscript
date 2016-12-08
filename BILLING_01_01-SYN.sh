@@ -8,7 +8,7 @@
 #
 
 # ALterado em 2003/08/13 - Edison Santos (Workmation) - Consolidacao MIBAS - BSCS
-# Alterado em 2004/01/07 - Rafael Toniete (Workmatiom) - Verificacao de data de corte
+# Alterado em 2004/01/07 - Marcos de Benedicto (Workmatiom) - Verificacao de data de corte
 # Alterado em 2004/03/15 - Marcos de Benedicto (Workmation) - Verificacao de FATAL ERROR, Kill de BCH e Abend do JOB
 #                                                	      Identificacao de arquivos de log gerados pelo BCH
 #===================================================================================#
@@ -241,7 +241,7 @@ echo " DATA/HORA apos os UPDATES de GEOCODE do BILLING e antes do BCH: `date`"
      echo "------------------------------------------------------------------"
      echo "Executando comando com o cron"
 #----------
-# Anterado em 13/04/04 por Rafael Toniete - CHANGE 2037
+# Anterado em 13/04/04 por Marcos de Benedicto - CHANGE 2037
 # Alteracao devido a um BUG do BCH que calcula uma hora a mais no time zone,
 # a alteracao do programa ja foi solicitada, mas para evitar erros enquanto
 # novo programa nao chega, deve ser incluido um export do TZ

@@ -3,7 +3,7 @@
 	# Finalidade    : CHG6195 - RELATORIO SINTETICO DE CONTROLE DE IP
 	# Input         : BSCS_11_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 28/04/2006
 
 set -x

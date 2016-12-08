@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5614 - Executa import de dados qualificados para a BGN
 	# Input         : BGN_04_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 10/02/2006
 
 set +x

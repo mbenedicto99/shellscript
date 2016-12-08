@@ -8,7 +8,7 @@
 #
 # - Correcao do tratamento de codigo de retorno do DEH;
 # - Implementacao de codigo de retorno do script;
-# Alteracao Rafael Toniete
+# Alteracao Marcos de Benedicto
 # Data: 23/09/2004
 # CHANGE 2558
 #

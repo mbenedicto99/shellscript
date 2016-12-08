@@ -3,7 +3,7 @@
 	# Finalidade    : SCR20188 - TRANSFERE ARQUIVO GEL PARA ISC
 	# Input         : BILLING_OFS_13_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 09/03/2007
 
 . /etc/appltab

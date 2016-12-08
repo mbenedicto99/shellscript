@@ -2,7 +2,7 @@
         # Finalidade    : CHG3009 - 
         # Input         : ATS001FQPN_CDR.sh 
         # Output        : mail, log
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 05/10/2004
 
 . /etc/appltab

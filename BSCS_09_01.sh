@@ -3,7 +3,7 @@
 	# Finalidade    : CHG5922 - Relatorio/Correcao de contratos com pendencias. REPROCESSAMENTO DO REQUEST.
 	# Input         : BSCS_09_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 17/03/2006
 
 

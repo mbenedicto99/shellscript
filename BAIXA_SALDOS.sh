@@ -3,7 +3,7 @@
         # Finalidade    : Execucao do GERA SALDO
         # Input         : BAIXA_SALDOS.sh
         # Output        : mail, log
-        # Autor         : Rafael Toniete
+        # Autor         : Marcos de Benedicto
         # Data          : 17/08/2004
 
 exit 0

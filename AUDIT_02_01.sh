@@ -2,7 +2,7 @@
 	# Finalidade    : CHG4394.b - Relatorio de Acessos Ativos nos sistemas criticos da NEXTEL
 	# Input         : AUDIT_02_01.sh
 	# Output        : mail, log
-	# Autor         : Rafael Toniete
+	# Autor         : Marcos de Benedicto
 	# Data          : 29/07/2005
 
 . /etc/appltab
